@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "pokergame",
+  "id": "ef5f8331-e842-480e-94f8-c0c37261672a",
+  "version": "2.4.0",
+  "isNew": false
+}
